@@ -6,6 +6,10 @@
 사용자는 책에 대한 리뷰를 블로그 형태로 써서 사람들과 공유할 수 있고 여기에는 인스타그램 형식의 책표지 사진이 같이 올라갑니다.
 또한 취향과 장르에 기반한 추천 시스템을 통해 사용자가 관심있어할 만한 책의 포스트를 추천해줍니다.
 
+![screenshot from 2018-11-08 14-15-30](https://user-images.githubusercontent.com/37764197/48179152-0e891d80-e361-11e8-98d7-86b7a2237381.png)
+
+![screenshot from 2018-11-08 14-15-52](https://user-images.githubusercontent.com/37764197/48179171-2e204600-e361-11e8-93c6-e326893cabd6.png)
+
 2. 프로젝트의 전반적인 아키텍처
 
 프로젝트는 React JS를 기반으로 만들어졌고, react-router를 사용하여 라우팅을 하였습니다.
